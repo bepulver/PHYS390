@@ -5,7 +5,7 @@ import dimod
 import numpy
 import minorminer
 from dwave.system.samplers import DWaveSampler
-sampler = DWaveSampler(token='DEV-176c67d38a18f8e993b4bd11b99aae4d68ab85a3', solver='DW_2000Q_6')
+sampler = DWaveSampler(token="PLACEHOLDER", solver='DW_2000Q_6')
 
 #-----------------------------------------------QUBO------------------------------------------------------------------------------#
 
